@@ -29,10 +29,10 @@
              "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
                "node_modules/animate.css/animate.min.css",
-               "node_modules/a1templatecss/css/paper-kit.css",
-                "node_modules/a1templatecss/css/paper-kit.min.css",
-               "node_modules/a1templatecss/demo/demo.css",
-              "node_modules/a1templatecss/demo/docs.css",
+               "public/templatecss/css/paper-kit.css",
+                "public/templatecss/css/paper-kit.min.css",
+               "public/templatecss/demo/demo.css",
+              "public/templatecss/demo/docs.css",
               "src/styles.css"
             ],
             "scripts": [
